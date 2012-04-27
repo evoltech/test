@@ -1,4 +1,4 @@
-(link description)[http://link.com]
+[link description](http://link.com)
 * one
 * two 
 * three
